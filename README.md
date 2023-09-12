@@ -3,4 +3,11 @@ My python adventure begins today
 
 ## GOALS
 
-- Currently i have no goals in python cuz i have no idea what can do with it 😄
+- Number Guessing
+- Hangman
+- Text-Based Adventure Game
+- Password Generator
+- Calculator
+- Tic-Tac-Toe
+- Quiz App
+- ...
