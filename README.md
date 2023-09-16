@@ -3,7 +3,7 @@ My python adventure begins today
 
 ## GOALS
 
-- Number Guessing
+- Number Guessing Game #DONE
 - Hangman
 - Text-Based Adventure Game
 - Password Generator
