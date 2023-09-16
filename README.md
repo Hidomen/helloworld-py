@@ -1,4 +1,4 @@
-# helloworld-python
+# helloworld-py
 My python adventure begins today
 
 ## GOALS
