@@ -7,7 +7,7 @@ My python adventure begins today
 - Hangman
 - Text-Based Adventure Game
 - Password Generator
-- Calculator
+- Calculator #DONE
 - Tic-Tac-Toe
 - Quiz App
 - ...
