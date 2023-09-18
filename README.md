@@ -6,7 +6,7 @@ My python adventure begins today
 - Number Guessing Game #DONE
 - Hangman
 - Text-Based Adventure Game
-- Password Generator
+- Password Generator #DONE
 - Calculator #DONE
 - Tic-Tac-Toe
 - Quiz App
