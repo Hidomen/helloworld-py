@@ -8,6 +8,6 @@ My python adventure begins today
 - Text-Based Adventure Game
 - Password Generator #DONE
 - Calculator #DONE
-- Tic-Tac-Toe #ALMOST
+- Tic-Tac-Toe #DONE
 - Quiz App
 - ...
